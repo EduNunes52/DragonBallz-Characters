@@ -1,6 +1,6 @@
 //Importação dos pacotes
 import axios from 'axios';
-import { Characters, Root } from '../characters';
+import { Characters, Root } from '../model/characters';
 
 //Declaração de atributos
 const API_URL = 'https://dragonball-api.com/api'
